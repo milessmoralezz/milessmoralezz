@@ -36,6 +36,9 @@
   <p align="left">
  ${\textsf{\color{#d88828}Just incase the person has boundaries on who they wanna int with}}$
 </p>
+ <p align="left">
+ ${\textsf{\color{#d88828}If you find that weird, thats fine, just keep it to yourself and move on}}$
+</p>
 </details>
 
 
