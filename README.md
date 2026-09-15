@@ -4,7 +4,7 @@
 
 <p align="center"> <img width="199" alt="Image" src="https://github.com/user-attachments/assets/4018bfac-8e1a-43eb-89b5-8eeeae5a9979" /></p>
 
-<p align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=5E0606&width=300&lines=My+name+is+Miles+Morales.;I+was+bitten+by+a+radioactive;spider%2C;and+for+like%2C+two+days%2C;Ive+been+the+one+and+only+Spider-Man.;Everyone+keeps+telling+me+how+my+story+is;supposed;to+go.;Nah.+I'm-a+do+my+own+thing." alt="Typing SVG" /></p>
+<p align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=5E0606&width=300&lines=My+name+is+Miles+Morales.;I+was+bitten+by+a+radioactive;spider%2C;and+for+like%2C+two+days%2C;Ive+been+the+one+and+only+Spider-Man.;Everyone+keeps+telling+me+how+my;story+is;supposed;to+go.;Nah.+I'm-a+do+my+own+thing." alt="Typing SVG" /></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=593425&width=100&lines=%28%EF%BD%A1%3E%EF%B9%8F%3C%29;%E0%AB%AE%E2%82%8D+%CB%83+%E2%A4%99+%CB%82+%E2%82%8E%E1%83%90;%E0%AB%AE+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+%E1%83%90;%EF%BC%88%2C%2C%3E%EF%B9%8F%3C%2C%2C%EF%BC%89;%E2%88%98+%E2%88%98+%E2%88%98+%28+%C2%B0%E3%83%AE%C2%B0+%29+%3F;%28%C2%AC_%C2%AC%22%29;%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%28%E1%B5%94%E1%97%9C%E1%B5%94%29" alt="Typing SVG" /></a>
 
