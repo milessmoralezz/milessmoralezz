@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<p align="center"> <img width="522" height="192" alt="Image" src="https://github.com/user-attachments/assets/927828ae-0fcc-4f6a-8544-e0873d515665" /></p>
 <!--
 **milessmoralezz/milessmoralezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
