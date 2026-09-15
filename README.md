@@ -1,6 +1,6 @@
 <p align="center"> <image alt="Alt-text" src="https://github.com/user-attachments/assets/927828ae-0fcc-4f6a-8544-e0873d515665" /></p>
 
-  <p align="center"> <img alt="Image" src="https://github.com/user-attachments/assets/d6e0c8f2-7ddd-4040-8b47-15527752a957" /></p>
+  <p align="center"> <img alt="Image" src="https://github.com/user-attachments/assets/4018bfac-8e1a-43eb-89b5-8eeeae5a9979" /></p>
   <!--
 **milessmoralezz/milessmoralezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
