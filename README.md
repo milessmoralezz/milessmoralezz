@@ -39,6 +39,9 @@
  <p align="left">
  ${\textsf{\color{#d88828}If you find that weird, thats fine, just keep it to yourself and move on}}$
 </p>
+<p align="left">
+ ${\textsf{\color{#d88828}13 ᴀɴᴅ ᴜɴᴅᴇʀ - 21+ ᴀɴᴅ ᴜᴘᴘᴇʀ ᴅɴɪ || ɪᴡᴇᴄ}}$
+ </p>
 </details>
 
 
