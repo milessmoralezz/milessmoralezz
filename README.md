@@ -21,6 +21,25 @@
  ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
 </p>
 
+<p align="center"><details>
+<summary>BYI</summary>
+<p align="left">
+ ${\textsf{\color{#d88828} I really suck at replying to people}}$
+</p>
+ <p align="left">
+ ${\textsf{\color{#d88828}So please do be patient with me!}}$
+</p>
+ 
+  <p align="left">
+ ${\textsf{\color{#d88828}I do go through peoples socials}}$
+</p>
+  <p align="left">
+ ${\textsf{\color{#d88828}Just incase the person has boundaries on who they wanna int with}}$
+</p>
+</details>
+
+
+
 
 <p align="center">
  ${\textsf{\color{#ffffff}Hellaverse . DDLC . Adult Shows . DNI .}}$
