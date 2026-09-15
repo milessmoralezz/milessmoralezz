@@ -23,14 +23,14 @@
 
 
 <p align="center">
- ${\textsf{\color{#2d7c6f}Hellaverse . DDLC . Adult Shows . DNI .}}$
+ ${\textsf{\color{#2d3460}Hellaverse . DDLC . Adult Shows . DNI .}}$
 </p>
 <p align="center">
- ${\textsf{\color{#2d7c6f}Alnst . Minecraft DNI .}}$
+ ${\textsf{\color{#2d3460}Alnst . Minecraft DNI .}}$
 </p>
 <p align="center">
- ${\textsf{\color{#2d7c6f}Friends + Friends of friends int .}}$
+ ${\textsf{\color{#2d3460}Friends + Friends of friends int .}}$
 </p>
 
 
-<p align="center"> <img width="450" alt="Image" src="https://github.com/user-attachments/assets/2b7f27a1-e934-4624-a825-71abd775a34e" />
+<p align="center">
