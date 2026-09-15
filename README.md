@@ -5,7 +5,12 @@
 
 <p align="center"> <image width="500" alt="Alt-text" src="https://github.com/user-attachments/assets/927828ae-0fcc-4f6a-8544-e0873d515665" /></p>
 
-
+<p align="center">
+ ${\textsf{\color{#b62e1e}Miles . Rudo . Minor .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
+</p>
   <!--
 **milessmoralezz/milessmoralezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
