@@ -42,6 +42,9 @@
 <p align="left">
  ${\textsf{\color{#d88828}13 ᴀɴᴅ ᴜɴᴅᴇʀ - 21+ ᴀɴᴅ ᴜᴘᴘᴇʀ ᴅɴɪ || ɪᴡᴇᴄ}}$
  </p>
+  <p align="left">
+ ${\textsf{\color{#d88828}I joke a lot with my friends, sometimes i come off rude so please alert me if i ever hurt your feelings!}}$
+ </p>
 </details>
 
 
