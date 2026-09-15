@@ -1,7 +1,7 @@
 <p align="center"> <img width="199" alt="Image" src="https://github.com/user-attachments/assets/4018bfac-8e1a-43eb-89b5-8eeeae5a9979" /></p>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&Pause=1000&width=300&lines=Everyone+keeps+telling+me;how+MY;story+is+supposed+to+go.;Nah.;I'ma+do+my+own+thing." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&Pause=1000&width=300&lines=Everyone+keeps+telling+me;+how+MY;story+is+supposed+to+go.;Nah.;I'ma+do+my+own+thing.;My+name+is+MilesMoralez.;I+was+bitten+by+a+radioactive+spider,;And+for+like+two+days,;I've+been+the+one;and+only+spiderman!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <image width="500" alt="Alt-text" src="https://github.com/user-attachments/assets/927828ae-0fcc-4f6a-8544-e0873d515665" /></p>
