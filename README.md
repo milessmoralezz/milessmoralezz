@@ -11,6 +11,17 @@
 <p align="center">
  ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
 </p>
+
+
+<p align="center">
+ ${\textsf{\color{#2d7c6f}Hellaverse . DDLC . Adult Shows . DNI .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#2d7c6f}Alnst . Minecraft DNI .}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#2d7c6f}Friends + Friends of friends int .}}$
+</p>
   <!--
 **milessmoralezz/milessmoralezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
