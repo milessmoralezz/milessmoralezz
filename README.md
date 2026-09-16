@@ -45,6 +45,10 @@
   <p align="left">
  ${\textsf{\color{#d88828}I joke alot with my friends, sumtimes i come off rude so please alert me if i make u feel hurt}}$
  </p>
+  ${\textsf{\color{#d88828}Im a really needy person at heart, i will get jealous if you talk to other people.}}$
+ </p> </p>
+  ${\textsf{\color{#d88828} but i wont ever tell you that cause im afraid to lose people}}$
+ </p>
 </details>
 
 
