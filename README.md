@@ -15,7 +15,7 @@
 <p align="center"> <img width="500" alt="Image" src="https://github.com/user-attachments/assets/474ee66a-0c41-421e-a6c7-da666cb0d259" />
 
 <p align="center">
- ${\textsf{\color{#b62e1e}Miles . Rudo . Minor .}}$
+ ${\textsf{\color{#b62e1e}Miles . Durin . Minor .}}$
 </p>
 <p align="center">
  ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
