@@ -20,6 +20,9 @@
 <p align="center">
  ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
 </p>
+<p align="center">
+ ${\textsf{\color{#b62e1e}DNI || DN C X H || DNT when im with friends / alone}}$
+</p>
 
 <p align="center"><details>
 <summary>BYI</summary>
