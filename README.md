@@ -21,7 +21,7 @@
  ${\textsf{\color{#b62e1e}Aromantic . Trans ftm . They / He .}}$
 </p>
 <p align="center">
- ${\textsf{\color{#b62e1e}DNI || DN C X H || DNT when im with friends / alone}}$
+ ${\textsf{\color{#b62e1e}𝐃𝐍𝐈 || 𝐃𝐍 𝐂 𝐗 𝐇 || 𝐃𝐍𝐓 𝐰𝐡𝐞𝐧 𝐢𝐦 𝐰𝐢𝐭𝐡 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 / 𝐚𝐥𝐨𝐧𝐞}}$
 </p>
 
 <p align="center"><details>
