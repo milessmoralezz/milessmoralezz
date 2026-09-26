@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+ ${\textsf{\color{#391611}Poly mike wheeler and will byers yumeshipper}}$
+</p>
+ 
+<p align="center">
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/31a7ef42-17ef-4990-9145-672660f089ec" />
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/d0328a2a-05eb-404b-83aa-8f64d6573738" />
 </p>
