@@ -15,3 +15,31 @@
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/31a7ef42-17ef-4990-9145-672660f089ec" />
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/d0328a2a-05eb-404b-83aa-8f64d6573738" />
 </p>
+
+
+<p align="center">
+ ${\textsf{\color{#F7B734FF}miles  ,  durin  , aromantic , transmasc ::  zᶻ ૮˶- ﻌ -˶ა⌒)ᦱ}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#F7B734FF}minor  ,  they/he  , 13- and under to 21+ and upper DNI || IWEC}}$
+</p>
+
+<p align="center">
+ ${\textsf{\color{#391611}BYI :: i process things slowly, so please be patient with me..}}$
+</p>
+
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7a99303a-6d99-4485-bfa7-7ff4a61d12de" />
+</p>
+
+<p align="center">
+ ${\textsf{\color{#391611}BASIC DNI CRITERIA!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#391611}Homophobic, Transphobic, Xenophobic, etc.}}$
+  ${\textsf{\color{#391611}Misogynistic behavior.}}$
+   ${\textsf{\color{#391611}Racist, Sexist, Ableist, Discrimination, etc.}}$
+    ${\textsf{\color{#5AB2F7}Invalidates A Person's Pronouns / Gender / Identity.}}$
+     ${\textsf{\color{#5AB2F7}Insensitive | Harmful | Sexualizing jokes.}}$
+      ${\textsf{\color{#F7B734FF}Supports, participates, tolerates, or justify any of the above.}}$
+</p>
