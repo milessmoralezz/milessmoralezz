@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/7a99303a-6d99-4485-bfa7-7ff4a61d12de" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/7a99303a-6d99-4485-bfa7-7ff4a61d12de" />
 </p>
 
 <p align="center">
@@ -42,4 +42,21 @@
     ${\textsf{\color{#5AB2F7}Invalidates A Person's Pronouns / Gender / Identity.}}$
      ${\textsf{\color{#5AB2F7}Insensitive | Harmful | Sexualizing jokes.}}$
       ${\textsf{\color{#F7B734FF}Supports, participates, tolerates, or justify any of the above.}}$
+</p>
+
+<p align="center">
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/7a99303a-6d99-4485-bfa7-7ff4a61d12de" />
+</p>
+
+
+<p align="center">
+ ${\textsf{\color{#391611}BASIC INT CRITERIA!}}$
+</p>
+<p align="center">
+ ${\textsf{\color{#391611}GI people.}}$
+  ${\textsf{\color{#391611}Friends of friends.}}$
+   ${\textsf{\color{#391611}Gachiakuta fans.}}$
+    ${\textsf{\color{#391611}FNaF fans  , Stranger Things fans.}}$
+     ${\textsf{\color{#5AB2F7}Spider-Man :: into the Spider-Verse fans please int freely unless w/ friends.}}$
+  ${\textsf{\color{#F7B734FF}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
