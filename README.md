@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#391611}Poly mike wheeler and will byers yumeshipper}}$
+ ${\textsf{\color{#391611}ᴘᴏʟʏ ᴠᴏɪᴅꜱʜᴀʀɪɴɢ ᴍɪᴋᴇ ᴡʜᴇᴇʟᴇʀ ᴀɴᴅ ᴡɪʟʟ ʙʏᴇʀꜱ ʏᴜᴍᴇꜱʜɪᴘᴘᴇʀ ♡}}$
 </p>
  
 <p align="center">
