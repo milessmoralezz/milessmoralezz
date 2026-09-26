@@ -53,7 +53,6 @@
  ${\textsf{\color{#391611}BASIC INT CRITERIA!}}$
 </p>
 <p align="center">
- ${\textsf{\color{#391611}GI people.}}$
   ${\textsf{\color{#391611}Friends of friends.}}$
    ${\textsf{\color{#391611}Gachiakuta fans.}}$
     ${\textsf{\color{#391611}FNaF fans  , Stranger Things fans.}}$
