@@ -63,3 +63,7 @@
      ${\textsf{\color{#5AB2F7}Spider-Man :: into the Spider-Verse fans please int freely unless w/ friends.}}$
   ${\textsf{\color{#F7B734FF}૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
+
+<p align="left">
+<img width="200" alt="Image" src="https://github.com/user-attachments/assets/57cae71e-50e8-444f-ba41-6018217c05a5" />
+</p>
