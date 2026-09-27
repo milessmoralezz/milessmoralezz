@@ -61,5 +61,5 @@
    ${\textsf{\color{#391611}Gachiakuta fans.}}$
     ${\textsf{\color{#391611}FNaF fans  , Stranger Things fans.}}$
      ${\textsf{\color{#5AB2F7}Spider-Man :: into the Spider-Verse fans please int freely unless w/ friends.}}$
-  ${\textsf{\color{#F7B734FF}I don't bite i swear.. maybe a little. ૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
+  ${\textsf{\color{#F7B734FF}૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
