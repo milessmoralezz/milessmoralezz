@@ -65,5 +65,5 @@
 </p>
 
 <p align="left">
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/57cae71e-50e8-444f-ba41-6018217c05a5" />
+<img width="290" alt="Image" src="https://github.com/user-attachments/assets/57cae71e-50e8-444f-ba41-6018217c05a5" />
 </p>
