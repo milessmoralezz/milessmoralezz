@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#F7B734FF}ᴘᴏʟʏ ᴠᴏɪᴅꜱʜᴀʀɪɴɢ ᴍɪᴋᴇ ᴡʜᴇᴇʟᴇʀ ᴀɴᴅ ᴡɪʟʟ ʙʏᴇʀꜱ ʏᴜᴍᴇꜱʜɪᴘᴘᴇʀ ♡}}$
+ ${\textsf{\color{#391611}ᴘᴏʟʏ ᴠᴏɪᴅꜱʜᴀʀɪɴɢ ᴍɪᴋᴇ ᴡʜᴇᴇʟᴇʀ ᴀɴᴅ ᴡɪʟʟ ʙʏᴇʀꜱ ʏᴜᴍᴇꜱʜɪᴘᴘᴇʀ ♡}}$
 </p>
 <p align="center">
  ${\textsf{\color{#391611}I do NOT harass anyone who yumeships with mike and will, don't assume things about someone you dont know}}$
