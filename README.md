@@ -64,6 +64,6 @@
   ${\textsf{\color{#F7B734FF}૮꒰  •̯́ ༝ •̯̀˵꒱ა}}$
 </p>
 
-<p align="left">
+<p align="center">
 <img width="290" alt="Image" src="https://github.com/user-attachments/assets/57cae71e-50e8-444f-ba41-6018217c05a5" />
 </p>
