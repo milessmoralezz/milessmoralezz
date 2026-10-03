@@ -11,6 +11,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=F7B734&width=435&lines=%E2%99%A1;%E2%99%A1;%E2%99%A1;%E2%99%A1;That's+what+holds+this+party+together.;The+Heart.;%E2%99%A1" alt="Typing SVG" /></a>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=78a3e3&bar_color_cover=false">
+  </a>
+</p>
+
+
 <p align="center">
  ${\textsf{\color{#391611}ᴘᴏʟʏ ᴠᴏɪᴅꜱʜᴀʀɪɴɢ ᴍɪᴋᴇ ᴡʜᴇᴇʟᴇʀ ᴀɴᴅ ᴡɪʟʟ ʙʏᴇʀꜱ ʏᴜᴍᴇꜱʜɪᴘᴘᴇʀ ♡}}$
 </p>
