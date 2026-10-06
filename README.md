@@ -9,6 +9,8 @@
 [Atabook](https://moralezfanclub.atabook.org/)
 •
 [Strawpage](https://arthuredmund.straw.page)
+•
+[pronouns.cc](https://pronouns.cc/@milesssss)
 
 </div>
 
