@@ -3,6 +3,15 @@
 <img width="130" alt="Image" src="https://github.com/user-attachments/assets/259d7893-b7fa-4c57-8641-f6757e513cee" />
 </p>
 
+
+<div align="center">
+
+[Atabook](https://moralezfanclub.atabook.org/)
+•
+[Strawpage](https://arthuredmund.straw.page)
+
+</div>
+
 <p align="center">
 <img width="290" alt="Image" src="https://github.com/user-attachments/assets/57cae71e-50e8-444f-ba41-6018217c05a5" />
 </p>
