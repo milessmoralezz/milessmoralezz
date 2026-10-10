@@ -1,5 +1,5 @@
 <p align="center">
-<img width="321" alt="byler_____-removebg-preview" src="https://github.com/user-attachments/assets/402d40bc-9c05-4ef9-96d7-b4b815167161" />
+<img width="253" alt="8e5a5ec9-20f2-4e41-9a28-c189c3f89ce6_removalai_preview" src="https://github.com/user-attachments/assets/ac36d78e-0eb6-40f3-9360-f44e658d8136" />
 </p>
 
 <div align="center">
