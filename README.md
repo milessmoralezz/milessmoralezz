@@ -21,7 +21,9 @@
 <img width="130" alt="Image" src="https://github.com/user-attachments/assets/259d7893-b7fa-4c57-8641-f6757e513cee" />
 </p>
 
-
+<p align="center">
+ ${\textsf{\color{#e9a72c}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊 |𝚖𝚊𝚒𝚗𝚕𝚢 𝚝𝚑𝚒𝚜| 𝚘𝚛 𝙼𝚒𝚕𝚎𝚜 𝚒𝚏 𝚢𝚘𝚞'𝚍 𝚕𝚒𝚔𝚎!}}$
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
