@@ -31,3 +31,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2keqe5bv5274eygpiwxjm2bzu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=false">
   </a>
 </p>
+
+<p align="center">
+<img width="63" alt="pony-town-will the wise , ♡-dance-3-blinking-padded-toy414-1x" src="https://github.com/user-attachments/assets/7cad78a5-1e89-4df8-921d-7b2827513ab3" />
+</p>
