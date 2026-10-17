@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-<img width="235" alt="pony-town-goth will , ♡-dance-3-blinking-padded-toy473-5x" src="https://github.com/user-attachments/assets/24907426-a462-4ecf-a08a-ea3c51fa113f" />
+<img width="140" alt="pony-town-goth will , ♡-dance-3-blinking-padded-toy473-5x" src="https://github.com/user-attachments/assets/24907426-a462-4ecf-a08a-ea3c51fa113f" />
 </p>
