@@ -17,7 +17,8 @@
 
 
 <p align="center">
-
+<img width="100" alt="tumblr_64fa7abf974c4e15067a96cdac2cd224_bbee9d6e_100" src="https://github.com/user-attachments/assets/cfe9046f-8d06-4e87-af90-449f214fa5fe" />
+<img width="100" alt="tumblr_61bc94afd5c9dbceb323351c0a84c043_d66301fe_100" src="https://github.com/user-attachments/assets/ab3fdf25-b8da-4b85-a0ca-e7c82d6ab543" />
 </p>
 
 <p align="center">
@@ -31,5 +32,5 @@
 </p>
 
 <p align="center">
-<img width="140" alt="pony-town-goth will , ♡-dance-3-blinking-padded-toy473-5x" src="https://github.com/user-attachments/assets/24907426-a462-4ecf-a08a-ea3c51fa113f" />
+
 </p>
