@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" alt="tumblr_fae254bff2d645c46cdbee350c5befd1_c7445f98_250" src="https://github.com/user-attachments/assets/f79b2e54-a2c5-44cf-a909-af06bd5286f3" />
+
 </p>
 
 <div align="center">
@@ -17,9 +17,7 @@
 
 
 <p align="center">
-<img width="120" alt="image" src="https://github.com/user-attachments/assets/b4542fcc-132f-40cd-b6ac-5f8b73590213" />
-<img width="110"alt="tumblr_721341810b931148afe1fcb1d8c0a499_2361ce78_100" src="https://github.com/user-attachments/assets/63af11b8-aa08-4733-a028-3f7100dd0496" />
-<img width="120" alt="image" src="https://github.com/user-attachments/assets/73b64df8-d503-4b82-8c88-9fa0ae335a08" />
+
 </p>
 
 <p align="center">
