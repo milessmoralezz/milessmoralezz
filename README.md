@@ -1,5 +1,5 @@
 <p align="center">
-
+<img width="500" alt="tumblr_262f3757023cee6bbb0eade2b5d48548_10b29ca1_1280" src="https://github.com/user-attachments/assets/138238ff-e1c4-4d16-a075-9c14a1ca8c9a" />
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
- ${\textsf{\color{#cc241f}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊!}}$
+ ${\textsf{\color{#712f8b}𝚌𝚊𝚕𝚕 𝚖𝚎 𝚂𝚑𝚘𝚢𝚊!}}$
 </p>
 
 <p align="center">
